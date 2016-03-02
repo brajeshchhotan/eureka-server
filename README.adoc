@@ -1,0 +1,8 @@
+= Eureka Server
+Patrick Grimard <pgrimard@gmail.com>
+v1.0.0, 2016-03-02
+:toc:
+:imagesdir: assets/images
+:homepage: http://patrickgrimard.com
+
+Simple Eureka server with sensible defaults.
